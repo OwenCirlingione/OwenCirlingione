@@ -6,8 +6,8 @@
 - <b>Utilizing PGPTool to send data</b>
   - [PGPTool Presentation](https://github.com/OwenCirlingione/PGPTool)
 
-- <b></b>
-  - [PGPTool Presentation](https://github.com/OwenCirlingione/PGPTool)
+- <b>Microsoft 365</b>
+  - [Microsoft 365 Configuration](https://github.com/OwenCirlingione/PGPTool)
 
 
 
