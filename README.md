@@ -19,7 +19,9 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-
+<p>
+  [linkedin]: www.linkedin.com/in/owen-cirlingione-6a8200341
+</p>
 
 
 
