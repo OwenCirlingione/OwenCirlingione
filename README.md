@@ -7,7 +7,7 @@
   - [PGPTool Presentation](https://github.com/OwenCirlingione/PGPTool)
 
 - <b>Microsoft 365</b>
-  - [Microsoft 365 Configuration](https://github.com/OwenCirlingione/PGPTool)
+  - [Microsoft 365 Configuration](https://github.com/OwenCirlingione/Microsoft-365-Configuration)
 
 
 
