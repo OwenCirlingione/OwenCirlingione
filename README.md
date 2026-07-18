@@ -8,7 +8,7 @@
 
 - <b>Microsoft 365</b>
   - [Microsoft 365 Configuration](https://github.com/OwenCirlingione/Microsoft-365-Configuration)
-  - [Harden Windows OS]()
+  - [Harden Windows OS](https://github.com/OwenCirlingione/Harden-Windows-OS)
 
 
 
